@@ -7,7 +7,7 @@ character = name[3]
 print(character)
 
 c = "NInawe"
-csh= c[1:0]  # this is empty 
+csh= c[1:0]  # this is empty does not less than like that[ :0]
 print(csh)
 d = "bokade"
 bok = d[1:5]

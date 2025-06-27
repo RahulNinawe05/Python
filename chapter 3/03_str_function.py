@@ -1,7 +1,6 @@
 name = "rahuly boy good and bad boy"
 
 
-'''
 print(len(name)) # length function
 print(len("boy"))
 print(name.endswith("good")) # endswith function
@@ -12,7 +11,7 @@ print(name.count("o")) # count function
 print(name.find("boy")) # find function
 print(name.replace("and", "or")) #replace function #("new" , "old")
 print(name * 3) # string repetation function
-'''
+
 
 '''
 name = "rahul"  # formatting Strings function

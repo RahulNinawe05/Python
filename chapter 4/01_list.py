@@ -1,10 +1,10 @@
 friends = ["Rahul ", "Ninawe","tahis",845.4, 53 ,"rysbkj"]
 
-# print(friends[3]) # this is indexing
+print(friends[3]) # this is indexing
 
-# friends[2] = "tiger"  # unlike strings list are mutable
-# print(friends[2])
-# print(friends)  #['Rahul ', 'Ninawe', 'tiger', 845.4, 53, 'rysbkj']  chegeble
+friends[2] = "tiger"  # unlike strings list are mutable
+print(friends[2])
+print(friends)  #['Rahul ', 'Ninawe', 'tiger', 845.4, 53, 'rysbkj']  chegeble
 
 friends[2] = 345        #change at indexing 2
 print(friends[2])   #345
